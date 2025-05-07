@@ -12,7 +12,7 @@ O objetivo deste projeto é simular uma *Galton Board* no display OLED da [BitDo
 
 ---
 ## Link Wokwi
-[![Link Wokwi](EmbarcaTech-2025/lab01_galton_board-vsvasconcelos/assets/normal.png)](https://wokwi.com/projects/430160171556376577)
+[![Link Wokwi](assets/normal.png)](https://wokwi.com/projects/430160171556376577)    
 
 ---
 ## :wrench: Componentes usados 
@@ -21,7 +21,8 @@ O objetivo deste projeto é simular uma *Galton Board* no display OLED da [BitDo
 | BitDogLab (RP2040)    | 01            |
 ---
 
-## :floppy_disk: Como compilar e executar o código   
+## :floppy_disk: Como compilar e executar o código     
+
 Configure seu sistema conforme apresentado em [Lindevs](https://lindevs.com/set-up-raspberry-pi-pico-sdk-on-ubuntu).  
 ---
 ### Estrutura do projeto:    
