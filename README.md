@@ -1,3 +1,13 @@
+# Projetos de Sistemas Embarcados - EmbarcaTech 2025
+
+Autor: Vagner Sanches Vasconcelos
+
+Curso: Residência Tecnológica em Sistemas Embarcados
+
+Instituição: EmbarcaTech - HBr
+
+Campinas, 06 de maio de 2025
+
 # Galton Board Digital com BitDogLab
 [![Galton Board](assets/gb.png)](https://zerodha.com/varsity/chapter/volatility-normal-distribution/)
 
